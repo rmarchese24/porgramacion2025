@@ -1,6 +1,6 @@
 import math
 import time
-
+# cambios para GIThub
 def mostrar_menu():
     print("\n--- CALCULADORA CIENTÍFICA ---")
     print("1. Suma")
